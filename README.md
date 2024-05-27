@@ -1,5 +1,10 @@
-## Hi there 👋
-
+### Olá, sou a Helena!
+Tenho 16 anos, estou no 2º ano do curso técnico de desenvolvimento de sistemas, no **Cotil - Colégio Técnico da Unicamp**.<br>
+- 🚀​Estou sempre disposta a abraçar novas oportunidades e desafios!<br><br>
+- 💻​ Sei programar em:  Java | C | C# | HTML | CSS
+<br><br><br><br>
+📫 E-mail: helena.petruz@gmail.com  <br>
+📫 LinkedIn: [www.linkedin.com/in/helena-petruz](www.linkedin.com/in/helena-petruz)
 <!--
 **HelenaPetruz/HelenaPetruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
