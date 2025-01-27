@@ -1,5 +1,5 @@
 ### Hello, I'm Helena!
-I'm 17 years old, I'm in the 2nd year of the systems development technical course, at Cotil - **Unicamp**'s technical college.<br>
+I'm 17 years old, I'm in the 3rd year of the systems development technical course, at Cotil - **Unicamp**'s technical college.<br>
 - ​💟​ I love programming, especially back-end!
 - 🚀​I'm always willing to embrace new opportunities and challenges!
 - 💻​I know how to program in: Java | C | C# | HTML | CSS
