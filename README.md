@@ -2,8 +2,8 @@
 I'm 18 years old, I'm a systems development technician, graduated from Cotil - **Unicamp**'s technical college.<br>
 - ​💜​ I love programming, especially back-end!
 - ✨​I'm always willing to embrace new opportunities and challenges!
-- 💻​I know how to program in: Java | C | C# | HTML | CSS | and I'm learning Python!
-- 🗂 I also learned how to work with some frameworks: Django | SpringBoot | Bootstrap
+- 💻​I know how to program in: Java | C | C# | HTML | CSS | Python
+- 🗂 I also learned how to work with some frameworks: Django | SpringBoot
 <br><br><br><br>
 📫 Email: helena.petruz@gmail.com  <br>
 📫 LinkedIn: [www.linkedin.com/in/helena-petruz](www.linkedin.com/in/helena-petruz)
