@@ -1,5 +1,6 @@
 ### Hello, I'm Helena!
 I'm 18 years old, I'm a systems development technician, graduated from Cotil - **Unicamp**'s technical college.<br>
+I'm currently pursuing a bachelor's degree in science and technology at the **Federal University of São Paulo, UNIFESP**.<br><br>
 - ​💜​ I love programming, especially back-end!
 - ✨​I'm always willing to embrace new opportunities and challenges!
 - 💻​I know how to program in: Java | C | C# | HTML | CSS | Python
